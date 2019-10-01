@@ -1,0 +1,30 @@
+self.positives = ["good", "well", "great", "decent", "amazing", "excellent", "sexy", "superb", "suburb", "fast", "awesome",
+                          "nice", "immersing", "immersive", "premium",
+                          "best", "better",
+                          "perfect", "perfection", "beast", "great", "fantastic", "faster", " fabulous", "blazing",
+                          "loved", "love",
+                          "marvellous",
+                          "charge", "smooth", "beautifully", "beautiful", "superb"]
+        self.negatives = ["very bad", "bad", "disappointment", "wrong", "never", "slow", "no", "not good", "not work",
+                          "not", "terrible",
+                          "issue", "defect", "slowest", "lags", "waste", "doesn't work", "doesnt work", "doesnt", "doesn't", "problem",
+                          "sucks",
+                          "worst",
+                          "pathetic", "not good", "not very good", "ineffective", "poor", "not success"]
+        self.features = ["phone", "phones", "device", "front camera", "back camera", "rear camera", "camera", "selfie",
+                         "fingerprint", "fingerprints", "finger print",
+                         "finger lock", "finger", "touch", "display", "hd", "design", "look", "build","performance", "gorilla glass",
+                         "screen", "photos", "pictures", "battery", "backup", "connectivity", "network", "fingerlock",
+                         "finger lock", "face unlock",
+                         "finger", "speed", "video",
+                         "sound", "headset", "headphones", "audio", "speakers", "speaker", "charging", "charge", "charger", "water resistance",
+                         "notifications light", "notch",
+                         "super amoled", "adaptive brightness sensor", "sensor", "call quality", "call", "nfc", "other devices",
+                         "one ui",
+                         "one-ui", "ui", "pubg", "gaming", "games", "color", "water", "bluetooth", "ram", "memory", "images", "gorrilla glass",
+                         "heating", "face unlock", "face", "price", "cost", "value for money", "budget", "affordable",
+                         "face recognition", "lowlight pictures", "lowlight",
+                         "processor", "chipset", "cpu", "bloatware",
+                         "microsd", "micro sd"]
+
+ater resistance<br/>Poor camera quality<br/>Front c
