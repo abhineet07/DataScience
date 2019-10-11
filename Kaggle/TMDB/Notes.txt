@@ -1,0 +1,9 @@
+ast.literal_eval(x)
+
+When to use it.
+
+ast.literal_eval(input()) would be useful if you expected a list (or something similar) by the user. For example '[1,2]' would be converted to [1,2].
+If the user is supposed to provide a number ast.literal_eval(input()) can be replaced with float(input()), or int(input()) if an integer is expected.
+
+######################################################################################
+
